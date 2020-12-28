@@ -1,8 +1,8 @@
 body {
   padding-left: 15px;
   padding-right: 15px;
-  background-color: #091E2B;
-  
+/*   background-color: #091E2B;
+   */
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
   color: #EEE0CD;
 }
@@ -14,7 +14,8 @@ h4,
 h5,
 h6 {
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-  color: #EEE0CD;
+/*   color: #EEE0CD; */
+  color: #333333;
 }
 
 h1 {
@@ -28,7 +29,8 @@ h2 {
 p {
   font-size: 1.25rem;
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-  color: #EEE0CD;
+  /*   color: #EEE0CD; */
+  color: #333333;
 }
 
 a:link {
@@ -40,8 +42,8 @@ a:visited {
 }
 
 hr {
-  max-width: 200px;
-  margin: 0 auto;
+  max-width: 250px;
+  margin: 0.5rem auto;
 }
 
 /* =================== */
