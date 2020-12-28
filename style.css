@@ -39,6 +39,11 @@ a:visited {
 /*   color: purple  */
 }
 
+hr {
+  max-width: 200px;
+  margin: 0 auto;
+}
+
 /* =================== */
 
 div.centered-txt {
