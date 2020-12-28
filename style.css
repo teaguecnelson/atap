@@ -1,10 +1,11 @@
 body {
   padding-left: 15px;
   padding-right: 15px;
-/*   background-color: #091E2B;
-   */
+  background-color: #091E2B;
+  
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-  color: #EEE0CD;
+  /*   color: #EEE0CD; */
+  color: #ffffff;
 }
 
 h1,
@@ -15,7 +16,7 @@ h5,
 h6 {
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
 /*   color: #EEE0CD; */
-  color: #333333;
+  color: #ffffff;
 }
 
 h1 {
@@ -30,15 +31,17 @@ p {
   font-size: 1.25rem;
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
   /*   color: #EEE0CD; */
-  color: #333333;
+  color: #ffffff;
 }
 
 a:link {
 /*   color: blue */
+  color: #ffffff !important;
 }
 
 a:visited {
 /*   color: purple  */
+  color: #ffffff;
 }
 
 hr {
